@@ -3,7 +3,7 @@
 - 👀 I've been on and off programming for the past couple of years. 
 - It was a kind of a struggle to realize that I have this interest, after finishing a major in a totally different field.
 - Giving my academic background a go, I realized this thought of doing something much more fulfilling then what I do at the moment,
-- won't never let me go. So I took a first step towards a major change in my life. A recalibration of a sort.
+  won't never let me go. So I took a first step towards a major change in my life. A recalibration of a sort.
 - My goal is to, starting in 22.08.22 become a java backend programmer.
 
 - I'm open to all kinds of interactions 
